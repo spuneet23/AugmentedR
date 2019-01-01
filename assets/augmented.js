@@ -13,7 +13,6 @@ $(document).ready(function(){
                         '<div class="card-body">'+
                         '<h4 class="card-title">Video</h4>'+
                         '<p class="card-text">Url- '+card.url+'</p>'+
-                        '<a href="augmented_mobile.html" class="btn btn-primary">Scan</a>'+
                         '</div>'+
                     '</div>'
                    )
